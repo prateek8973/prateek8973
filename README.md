@@ -5,6 +5,7 @@
 - 📫 How to reach me ...Linkedin:www.linkedin.com/in/prateek-p-083441281
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=prateek8973)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prateek8973&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 prateek8973/prateek8973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
