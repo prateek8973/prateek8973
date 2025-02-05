@@ -6,7 +6,7 @@
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Profiles  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prateek-p-083441281" target="_blank">
