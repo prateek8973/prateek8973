@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @prateek8973 ,CSE(AI&ML) sophomore at [Ramaiah Institute of Technology](https://www.msrit.edu).
-- 👀 I’m interested in ...AI,ML,NLP,CV,programming...
-- 🌱 I’m currently learning ...Data Science,Machine Learning,Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...:<a href="https://www.linkedin.com/in/prateek-p-083441281"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn"></a>.
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=prateek8973)](https://github.com/ryo-ma/github-profile-trophy)
+## 👋 Hi, I'm Prateek P  
+### 🚀 CSE (AI & ML) Sophomore | Ramaiah Institute of Technology  
 
-<!---
-prateek8973/prateek8973 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 **Interests:** AI, Machine Learning, NLP, Computer Vision, Programming  
+🔹 **Currently Learning:** Data Science, Machine Learning, Programming  
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prateek-p-083441281" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/Prateek_P" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/prateek8973/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prateek8973&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true">
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateek8973&show_icons=true&theme=onedark&hide_border=true">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek8973&theme=onedark&hide_border=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek8973&layout=compact&theme=onedark&hide_border=true">
+</p>
