@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Prateek P  
-### 🚀 Pre-Final Year ,B.E. in CSE (AI & ML)  at Ramaiah Institute of Technology  
+### 🚀 Final Year ,B.E. in CSE (AI & ML)  at Ramaiah Institute of Technology  
 
 🔹 **Interests:** AI, Machine Learning, NLP, Computer Vision, Programming  
 🔹 **Currently Learning:** Data Science, Machine Learning, Programming  
